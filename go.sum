@@ -1,7 +1,5 @@
 github.com/DHowett/go-plist v0.0.0-20180217080326-84d08b7bddb3 h1:1/06BO/MMdR1EA5EIK61jKCc0o9tz2z4JwnHwyCwgAo=
 github.com/DHowett/go-plist v0.0.0-20180217080326-84d08b7bddb3/go.mod h1:5paT5ZDrOm8eAJPem2Bd+q3FTi3Gxm/U4tb2tH8YIUQ=
-github.com/andrianbdn/iospng v0.0.0-20180629161540-eb5ebcdb1909 h1:EiyLF+8rhjoXH+2Khtrlx6yT9PSvM+rt1LzenAXbMe0=
-github.com/andrianbdn/iospng v0.0.0-20180629161540-eb5ebcdb1909/go.mod h1:Ct7Kf2zP3u3uzYRRwayZEwtAQGJ2leVXiR6DQI9IqPo=
 github.com/andrianbdn/iospng v0.0.0-20180730113000-dccef1992541 h1:PlePBgD++64Pjmo5HtrBuBxt1oWTUkc0PzrrLk822uA=
 github.com/andrianbdn/iospng v0.0.0-20180730113000-dccef1992541/go.mod h1:Ct7Kf2zP3u3uzYRRwayZEwtAQGJ2leVXiR6DQI9IqPo=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=

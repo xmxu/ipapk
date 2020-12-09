@@ -1,4 +1,4 @@
-module github.com/xuxm/ipapk
+module github.com/xmxu/ipapk
 
 go 1.15
 
